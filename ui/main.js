@@ -1,7 +1,7 @@
 console.log('Loaded!');
 //change content
 var element = document.getElementById('main-text');
-element.innerHTML = 'New Value';
+element.innerHTML = 'SEXY Disha!!!!';
 //move element
 var img = document.getElementById('modi');
 var marginLeft =0;

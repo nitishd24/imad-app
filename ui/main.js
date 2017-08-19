@@ -4,7 +4,12 @@ var element = document.getElementById('main-text');
 element.innerHTML = 'New Value';
 //move element
 var img = document.getElementById('modi');
+function moveRight ()
+{
+    marginLeft = marginLeft +1;
+    img.style.marginLeft = marginLeft +'px';
+}
 img.onclick = function()
 {
-    img.style.marginLeft = '100px';
+    var interval = setinterval(moveRight, 50);
 };

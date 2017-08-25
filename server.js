@@ -11,7 +11,7 @@ var articles = {
          heading:'Articleone',
          date:'Sept 19,2017',
          content:`                <p>
-                    This is first step of LUST!!!.
+                    This is first step of <span>LUST!!!</span>.
                 </p>`},
       'article-two': {    
           title:'Article Two | Nitish',

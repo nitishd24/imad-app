@@ -51,7 +51,7 @@ var htmltemplate = `<!doctype html>
         }
         </script>
     </head>
-    <body onload="hello();">
+    <body onLoad="hello();">
         <div class="container">
             <div>
                 <a href='/' class="a1">Home</a>

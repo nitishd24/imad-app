@@ -20,14 +20,14 @@ var articles = {
           heading:'Articletwo',
           date:'Sept 20,2017',
           content:`                <p>
-                    This is content of my second article.
+                      Inspiring span of <span><a href="https://www.xvideos.com" onmouseout="hello();" class="span">LUST!!!</a></span>.
                 </p>`},
       'article-three': {    
           title:'Article Three | Nitish',
           heading:'Articlethree',
           date:'Sept 21,2017',
           content:`                <p>
-                    This is content of my third article.
+                     Addicted to <span><a href="https://www.redtube.com" onmouseout="hello();" class="span">xxx!!!</a></span>.
                 </p>`}         
 };
 

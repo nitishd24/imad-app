@@ -40,7 +40,7 @@ body {
 }
 .one {
     margin-left: 400px;
-    padding:2px;
+    padding:4px;
     border:1px solid black;
     border-radius:4px;
     background-color:darkblue;
@@ -54,7 +54,7 @@ body {
 }
 
 .two {
-    padding:2px;
+    padding:4px;
     border:1px solid black;
     border-radius:4px;
     background-color:darkblue;
@@ -68,7 +68,7 @@ body {
 }
 .three {
     margin-right: 400px;
-    padding:2px;
+    padding:4px;
     border:1px solid black;
     border-radius:4px;
     background-color:darkblue;

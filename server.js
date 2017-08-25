@@ -28,6 +28,9 @@ var articles = {
                     This is content of my third article.
                 </p>`}         
 };
+function hello() {
+    alert("Come back here you <em>SUCKER</em>")
+}
 
 function createtemplate (data) {
 var title = data.title;

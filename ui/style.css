@@ -79,3 +79,17 @@ body {
     color:white;
     text-decoration:none;
 }
+.a1{
+     padding:4px;
+    border:1px solid black;
+    border-radius:4px;
+    background-color:darkblue;
+    color:white;
+    text-decoration:none;
+}
+.a1:hover {
+    padding:8px;
+    background-color:#d80202;
+    color:white;
+    text-decoration:none;
+}

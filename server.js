@@ -71,6 +71,11 @@ app.get('/:articleName',function(req,res){
   res.send(path.join(createtemplate(articles[articleName])));
 });
 
+var count=0;
+app.get('/',function(req,res){
+    count=count+1;
+    res.send(count.toString());
+});
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
 });

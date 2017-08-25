@@ -34,3 +34,12 @@ body {
     display:flex;
 }
 
+.one {
+    margin-left: 400px;
+}
+.two {
+    margin-left: 100px;
+}
+.three {
+    margin-left: 100px;
+}

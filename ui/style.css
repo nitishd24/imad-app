@@ -73,14 +73,13 @@ body {
     background-color:grey;
     color:white;
     text-decoration:none;
-    opacity:2;
 }
 .three:hover {
     padding:4px;
-    background-color:#d80202;
+    background-color:grey;
     color:white;
     text-decoration:none;
-    opacity:1;
+    opacity:2;
 }
 .a1{
      padding:4px;

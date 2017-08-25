@@ -30,3 +30,13 @@ body {
     height: 250px;
 }
 
+#one {
+    margin-left: 20px;
+}
+#two {
+    margin: 0 auto;
+}
+#three {
+    margin-right: 20px;
+}
+

@@ -33,7 +33,9 @@ body {
 .one {
     margin-left: 400px;
 }
-
+.two {
+    margin-left: 200px;
+}
 .three {
     margin-left: 100px;
 }

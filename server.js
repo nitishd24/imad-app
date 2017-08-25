@@ -5,7 +5,7 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-hello.onmouseout(function() {
+hello.onMouseOut(function() {
   alert( "Handler called." );
 });
 

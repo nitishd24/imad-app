@@ -43,11 +43,7 @@ var htmltemplate = `<!doctype html>
         <title>${title}</title>
         <meta name="viewport" content="width-device-width, initial-scale=1"/>
         <link href="/ui/style.css" rel="stylesheet" />
-        <script type="text/javascript">
-        function hello() {
-            alert("Don't Leave LUSTY SUCKER");
-        }
-        </script>
+        
     </head>
     <body>
         <div class="container">

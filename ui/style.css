@@ -43,7 +43,7 @@ body {
     text-decoration:none;
 }
 .one:hover {
-    padding:6px;
+    padding:8px;
     background-color:#d80202;
     color:white;
     text-decoration:none;
@@ -59,7 +59,7 @@ body {
     text-decoration:none;
 }
 .two:hover {
-    padding:6px;
+    padding:8px;
     background-color:#d80202;
     color:white;
     text-decoration:none;
@@ -74,7 +74,7 @@ body {
     text-decoration:none;
 }
 .three:hover {
-    padding:6px;
+    padding:8px;
     background-color:#d80202;
     color:white;
     text-decoration:none;

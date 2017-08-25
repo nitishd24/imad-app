@@ -45,7 +45,7 @@ var htmltemplate = `<!doctype html>
         <link href="/ui/style.css" rel="stylesheet" />
         <script type="text/javascript">
         function hello() {
-            alert("hello SUCKER");
+            alert("Don't Leave LUSTY SUCKER");
         }
         </script>
     </head>

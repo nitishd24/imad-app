@@ -37,7 +37,7 @@ body {
 .one {
     margin-left: 400px;
     padding:4px;
-    border:1px solid black;
+    border:1px solid #fff;
     border-radius:4px;
     background-color:darkblue;
     color:white;
@@ -53,7 +53,7 @@ body {
 .two {
     margin-left:100px;
     padding:4px;
-    border:1px solid black;
+    border:1px solid #fff;
     border-radius:4px;
     background-color:darkblue;
     color:white;
@@ -70,7 +70,7 @@ body {
     padding:4px;
     border:1px solid #fff;
     border-radius:4px;
-    background-color:blue;
+    background-color:darkblue;
     color:white;
     text-decoration:none;
 }

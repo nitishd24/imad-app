@@ -34,12 +34,3 @@ body {
     display:flex;
 }
 
-.one {
-    align-self:flex-start ;
-}
-.two {
-    align-self:center;
-}
-.three {
-    align-self:flex-end;
-}

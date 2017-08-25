@@ -34,4 +34,10 @@ body {
     display:flex;
     justify-content: space-between;
 }
+.one {
+    margin-left: 400px;
+}
 
+.three {
+    margin-right: 400px;
+}

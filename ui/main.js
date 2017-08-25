@@ -14,3 +14,7 @@ img.onclick = function()
 {
     var interval = setInterval(moveRight, 50);
 };
+
+function hello() {
+    alert("Come back here you <em>SUCKER</em>")
+}

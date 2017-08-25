@@ -35,10 +35,10 @@ body {
 }
 
 .one {
-    align-content: flex-start;
+    margin-left: 400px;
 }
 .two {
-    align-content: center;
+    margin-left: 100px;
 }
 .three {
     margin-left: 100px;

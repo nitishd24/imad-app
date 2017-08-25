@@ -6,7 +6,7 @@ var app = express();
 app.use(morgan('combined'));
 
 hello.onmouseout(function() {
-  alert( "Handler for .dblclick() called." );
+  alert( "Handler called." );
 });
 
 var articles = {

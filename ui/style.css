@@ -38,7 +38,7 @@ body {
     align-content: flex-start;
 }
 .two {
-    margin-left: 100px;
+    align-content: center;
 }
 .three {
     margin-left: 100px;

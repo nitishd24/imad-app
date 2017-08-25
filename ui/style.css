@@ -45,6 +45,10 @@ body {
     border-radius:4px;
     background-color:#d80202;
 }
+.one:hover {
+    background-color:darkblue;
+    color:white;
+}
 
 .three {
     margin-right: 400px;

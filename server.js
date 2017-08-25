@@ -5,6 +5,10 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
+function hello() {
+    alert("Come back here you <em>SUCKER</em>")
+}
+
 var articles = {
       'article-one': {
          title:'Article One | Nitish',
@@ -28,9 +32,7 @@ var articles = {
                     This is content of my third article.
                 </p>`}         
 };
-function hello() {
-    alert("Come back here you <em>SUCKER</em>")
-}
+
 
 function createtemplate (data) {
 var title = data.title;

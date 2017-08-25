@@ -44,7 +44,7 @@ var htmltemplate = `<!doctype html>
     <body>
         <div class="container">
             <div>
-                <a href='/' class="one" margin-left="0px">Home</a>
+                <a href='/' class="one" margin-left=0>Home</a>
             </div>
             <div>
                 <hr/>

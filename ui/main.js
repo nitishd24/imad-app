@@ -3,7 +3,7 @@ console.log('Loaded!');
 var element = document.getElementById('main-text');
 element.innerHTML = 'SEXY Disha!!!!';
 //move element
-var img = document.getElementById('modi');
+var img = document.getElementById('madi');
 var marginLeft =0;
 function moveRight ()
 {

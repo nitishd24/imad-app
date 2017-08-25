@@ -11,7 +11,7 @@ var articles = {
          heading:'Articleone',
          date:'Sept 19,2017',
          content:`                <p>
-                    This is first step of <span><a href="https://www.pornhub.com" class="span" onmouseout="hello()">LUST!!!</a></span>.
+                    This is first step of <span><a href="https://www.pornhub.com" class="span" onmouseout="hello();">LUST!!!</a></span>.
                 </p>`},
       'article-two': {    
           title:'Article Two | Nitish',

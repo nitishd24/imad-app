@@ -5,9 +5,7 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-hello.onMouseOut(function() {
-  alert( "Handler called." );
-});
+
 
 var articles = {
       'article-one': {

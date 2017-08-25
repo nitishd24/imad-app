@@ -68,18 +68,18 @@ body {
 .three {
     margin-left: 100px;
     padding:4px;
-    border:1px solid black;
+    border:1px solid #fff;
     border-radius:4px;
-    background-color:grey;
+    background-color:blue;
     color:white;
     text-decoration:none;
 }
 .three:hover {
     padding:4px;
-    background-color:grey;
+    background-color:#d80202;
     color:white;
     text-decoration:none;
-    opacity:999;
+    opacity:1;
 }
 .a1{
      padding:4px;

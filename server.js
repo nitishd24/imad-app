@@ -57,6 +57,7 @@ var htmltemplate = `<!doctype html>
             </div>
             <div>
                ${content}
+               <img src="https://s-media-cache-ak0.pinimg.com/originals/68/79/32/687932686bbefb49b1ac012ad2c4b3ab.jpg" alt="Shruti Hasan">
             </div>
         </div>
     </body>

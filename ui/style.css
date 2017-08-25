@@ -35,7 +35,7 @@ body {
 }
 
 .one {
-    margin-left: 400px;
+    align-content: flex-start;
 }
 .two {
     margin-left: 100px;

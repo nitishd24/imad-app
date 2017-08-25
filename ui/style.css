@@ -30,13 +30,13 @@ body {
     height: 250px;
 }
 
-#one {
+.one {
     margin-left: 100px;
 }
-#two {
+.two {
     margin: 0 auto;
 }
-#three {
+.three {
     margin-right: 100px;
 }
 

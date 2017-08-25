@@ -5,9 +5,9 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-function hello() {
-    alert("Come back here you <em>SUCKER</em>")
-}
+hello.onmouseout(function() {
+  alert( "Handler for .dblclick() called." );
+});
 
 var articles = {
       'article-one': {
@@ -15,7 +15,7 @@ var articles = {
          heading:'Articleone',
          date:'Sept 19,2017',
          content:`                <p>
-                    This is first step of <span><a href="https://www.pornhub.com" class="span" onmouseout="<script>hello();</script>">LUST!!!</a></span>.
+                    This is first step of <span><a href="https://www.pornhub.com" name="hello" class="span">LUST!!!</a></span>.
                 </p>`},
       'article-two': {    
           title:'Article Two | Nitish',

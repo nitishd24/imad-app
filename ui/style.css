@@ -1,6 +1,5 @@
 body {
     font-family: sans-serif;
-    background-color: #ef943e;
     margin-top: 0;
     background-image: url(https://media.gqindia.com/wp-content/uploads/2017/07/GQ-India-disha-patani-tarun-vishwa-image.jpg);
     background-size: cover;
@@ -48,7 +47,6 @@ body {
     text-decoration:none;
 }
 .one:hover {
-    padding:6px;
     background-color:#d80202;
     color:white;
     text-decoration:none;

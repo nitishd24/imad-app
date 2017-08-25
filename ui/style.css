@@ -30,13 +30,16 @@ body {
     height: 250px;
 }
 
-.one {
-    margin-left: 400px;
-}
-.two {
-    margin-left: 100px;
-}
-.three {
-    margin-left: 100px;
+.link {
+    display:flex;
 }
 
+.one {
+    align-self:flex-start ;
+}
+.two {
+    align-self:center;
+}
+.three {
+    align-self:flex-end;
+}

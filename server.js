@@ -13,7 +13,7 @@ var articles = {
          heading:'Articleone',
          date:'Sept 19,2017',
          content:`                <p>
-                    This is first step of <span><a href="https://www.pornhub.com" name="hello" class="span">LUST!!!</a></span>.
+                    This is first step of <span><a href="https://www.pornhub.com" onmouseout="hello();" class="span">LUST!!!</a></span>.
                 </p>`},
       'article-two': {    
           title:'Article Two | Nitish',
@@ -43,6 +43,11 @@ var htmltemplate = `<!doctype html>
         <title>${title}</title>
         <meta name="viewport" content="width-device-width, initial-scale=1"/>
         <link href="/ui/style.css" rel="stylesheet" />
+        <script type="text/javascript">
+        function hello() {
+            alert("hello SUCKER");
+        }
+        </script>
     </head>
     <body>
         <div class="container">

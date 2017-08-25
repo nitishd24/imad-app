@@ -43,11 +43,12 @@ body {
     padding:2px;
     border:1px solid black;
     border-radius:4px;
-    background-color:#d80202;
+    background-color:darkblue;
+    color:white;
     text-decoration:none;
 }
 .one:hover {
-    background-color:darkblue;
+    background-color:#d80202;
     color:white;
     text-decoration:none;
 }

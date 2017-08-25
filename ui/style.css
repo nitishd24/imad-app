@@ -32,11 +32,7 @@ body {
     width: 300px;
 }
 
-.link {
-    display:flex;
-    justify-content: space-between;
-    text-decoration: none;
-}
+
 .one {
     margin-left: 400px;
     padding:4px;
@@ -53,6 +49,7 @@ body {
 }
 
 .two {
+    margin-left:100px;
     padding:4px;
     border:1px solid black;
     border-radius:4px;
@@ -67,7 +64,7 @@ body {
     text-decoration:none;
 }
 .three {
-    margin-right: 400px;
+    margin-left: 100px;
     padding:4px;
     border:1px solid black;
     border-radius:4px;

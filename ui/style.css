@@ -53,6 +53,30 @@ body {
     text-decoration:none;
 }
 
+.two {
+    padding:2px;
+    border:1px solid black;
+    border-radius:4px;
+    background-color:darkblue;
+    color:white;
+    text-decoration:none;
+}
+.two:hover {
+    background-color:#d80202;
+    color:white;
+    text-decoration:none;
+}
 .three {
     margin-right: 400px;
+    padding:2px;
+    border:1px solid black;
+    border-radius:4px;
+    background-color:darkblue;
+    color:white;
+    text-decoration:none;
+}
+.three:hover {
+    background-color:#d80202;
+    color:white;
+    text-decoration:none;
 }

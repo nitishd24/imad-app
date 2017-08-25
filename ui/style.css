@@ -6,6 +6,11 @@ body {
     background-size: cover;
 
 }
+
+video {
+    min-width:100%;
+    min-height:100%;
+}
 .container{
                 color: #d614d6;
                 font: caption;

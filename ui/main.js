@@ -1,5 +1,5 @@
 var button = document.getElementById('counter');
-var counter =0;
+var count =0;
 /*button.onclick = function ()  {
     
     var request =new XMLHttpRequest();
@@ -19,7 +19,7 @@ var counter =0;
 };
 */
 button.onclick = function() {
-    counter= counter + 1;
+    count = count + 1;
     var span =document.getElementById('counter');
-    span.innerHTML = counter.toString();
+    span.innerHTML = count.toString();
 };

@@ -1,5 +1,6 @@
 var button = document.getElementById('counter');
-button.onclick = function ()  {
+var counter =0;
+/*button.onclick = function ()  {
     
     var request =new XMLHttpRequest();
     
@@ -15,4 +16,10 @@ button.onclick = function ()  {
     
     request.open('GET',"http://nitishkumar24oct.imad.hasura-app.io/counter", true);
     request.send(null);
+};
+*/
+button.onclick = function() {
+    counter= counter + 1;
+    var span =document.getElementById('counter');
+    span.innerHTML = counter.toString();
 };

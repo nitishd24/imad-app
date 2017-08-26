@@ -1,6 +1,5 @@
 var button = document.getElementById('counter');
-var counter =0;
-/*button.onclick = function ()  {
+button.onclick = function ()  {
     
     var request =new XMLHttpRequest();
     
@@ -14,12 +13,6 @@ var counter =0;
       } 
     };
     
-    request.open('GET','http://nitishkumar24oct.imad.hasura-app.io/counter', true);
+    request.open('GET',"http://nitishkumar24oct.imad.hasura-app.io/counter", true);
     request.send(null);
-};
-*/
-button.onclick = function() {
-    counter= counter + 1;
-    var span =document.getElementById('count');
-    span.innerHTML = counter.toString();
 };
